@@ -1,0 +1,11 @@
+C:\Users\w.souza.carvalho\Desktop\C#Learning\Inheriterance\obj\Debug\netcoreapp2.2\Inheriterance.csprojAssemblyReference.cache
+C:\Users\w.souza.carvalho\Desktop\C#Learning\Inheriterance\obj\Debug\netcoreapp2.2\Inheriterance.csproj.CoreCompileInputs.cache
+C:\Users\w.souza.carvalho\Desktop\C#Learning\Inheriterance\obj\Debug\netcoreapp2.2\Inheriterance.AssemblyInfoInputs.cache
+C:\Users\w.souza.carvalho\Desktop\C#Learning\Inheriterance\obj\Debug\netcoreapp2.2\Inheriterance.AssemblyInfo.cs
+C:\Users\w.souza.carvalho\Desktop\C#Learning\Inheriterance\bin\Debug\netcoreapp2.2\Inheriterance.deps.json
+C:\Users\w.souza.carvalho\Desktop\C#Learning\Inheriterance\bin\Debug\netcoreapp2.2\Inheriterance.runtimeconfig.json
+C:\Users\w.souza.carvalho\Desktop\C#Learning\Inheriterance\bin\Debug\netcoreapp2.2\Inheriterance.runtimeconfig.dev.json
+C:\Users\w.souza.carvalho\Desktop\C#Learning\Inheriterance\bin\Debug\netcoreapp2.2\Inheriterance.dll
+C:\Users\w.souza.carvalho\Desktop\C#Learning\Inheriterance\bin\Debug\netcoreapp2.2\Inheriterance.pdb
+C:\Users\w.souza.carvalho\Desktop\C#Learning\Inheriterance\obj\Debug\netcoreapp2.2\Inheriterance.dll
+C:\Users\w.souza.carvalho\Desktop\C#Learning\Inheriterance\obj\Debug\netcoreapp2.2\Inheriterance.pdb

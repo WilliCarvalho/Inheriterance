@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\w.souza.carvalho\\Desktop\\C#Learning\\Inheriterance\\Inheriterance.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\w.souza.carvalho\\Desktop\\C#Learning\\Inheriterance\\Inheriterance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\w.souza.carvalho\\Desktop\\C#Learning\\Inheriterance\\Inheriterance.csproj",
+        "projectName": "Inheriterance",
+        "projectPath": "C:\\Users\\w.souza.carvalho\\Desktop\\C#Learning\\Inheriterance\\Inheriterance.csproj",
+        "packagesPath": "C:\\Users\\w.souza.carvalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\w.souza.carvalho\\Desktop\\C#Learning\\Inheriterance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\w.souza.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus-cicd-tools.apps.grupofleury.com.br/repository/nuget-hosted/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
